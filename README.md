@@ -2,7 +2,7 @@
 
 Dashboard interactivo de finanzas personales construido con Python, pandas y Plotly. Analiza 11 meses de transacciones reales (Ene–Nov 2025) divididas en fuentes de ingreso y categorías de gasto.
 
-![Vista previa del dashboard](screenshots/dashboard.png)
+![Vista previa del dashboard](dashboard.png)
 
 ## Funcionalidades
 
